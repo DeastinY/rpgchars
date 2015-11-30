@@ -30,7 +30,7 @@ Nahkampf 5 (Klingenwaffen, Knüppel, Waffenloser Kampf)
 Feuerwaffen 5 (Gewehre, Pistolen, Schnellfeuerwaffen)  
 
 ### Einzelfertigkeiten:
-5 Athletik (Akrobatik)  
+2 Athletik (Akrobatik)  
 2 Entfesseln  
 1 Schleichen (Stadt)  
 1 Schlosser  
@@ -52,11 +52,11 @@ Feuerwaffen 5 (Gewehre, Pistolen, Schnellfeuerwaffen)
 2 Handwerk  
 1 Navigation (Stadt)  
 1 Verkleiden  
-1 Wahrnehmung (Optisch)  
+2 Wahrnehmung (Optisch)  
 
 3 Waffenbau  
 
-1 Computer (Datensuche)  
+3 Computer (Datensuche)  
 2 Erste Hilfe  
 
 ### Wissensfertigkeiten:
