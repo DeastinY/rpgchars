@@ -54,11 +54,10 @@ Feuerwaffen 5 (Gewehre, Pistolen, Schnellfeuerwaffen)
 1 Verkleiden  
 1 Wahrnehmung (Optisch)  
 
-1 Survival  
+3 Waffenbau  
 
 1 Computer (Datensuche)  
 2 Erste Hilfe  
-2 Fälschen  
 
 ### Wissensfertigkeiten:
 (INT+CHA)x2 = 10  
@@ -85,9 +84,38 @@ Darstellende Künste 5
 5 Karma Innere Uhr (+1 Vorführung Rythmus + Freie Handlung im Kampf)  
 
 ### Nachteile:
-5 Karma Lieblingsspielzeug ()  
+5 Karma Lieblingsspielzeug (Notizbuch)  
 10 Karma Luxusgeschöpf (Mittelschicht)  
 5 Karma Staatliche SIN  
 
 ## Ausrüstung:
 10 Karma = 20.000 Y + 6.000Y  
+Profiset ( 10 Karma )  
+Gefälschte SIN 4   
+Metallhandschellen
+Kommlink [Erika Elite] mit Sim-Modul und subvokalem Mikrofon  
+Rucksack (20 ¥)  
+Messer  
+Taschenlampe  
+Panzerweste  
+Taschenlampe (Restlicht)  
+Mikro-Transceiver  
+Kletterausrüstung  
+RFID-Löscher  
+Taucherausrüstung  
+Kartensoft [Berlin]
+Gasmaske  
+Beglaubigter Credstick (Gold)
+Atemschutzmaske 4  
+Kontaktlinsen [Kapazität 3 : Bildverbindung, Blitzkompensation, Restlichtverstärkung]  
+Survival-Kit  
+Ohrstöpsel [Kapazität 3 : Audioverbindung, Selektiver Geräuschfilter 2]  
+100 Meter Seil  
+Kamera [Kapazität 1 : Sichtvergrößerung]  
+Medkit 3  
+
+Täuschungspanzerung Panzerung 13 Kapazität 4 Verfügbarkeit 12E Preis 5.000Y
+(Unterbrechungshandlung (-5 Initiative), Vorführung vs. Wahrnehmung -4, Keine Verteidigung beim nächsten Angriff,
+Nachfüllen Waffenbau + Logik 4, 1 Stunde)
+2 x Lizenz Stufe 4 (Besitzen/Tragen) : 800 Y
+Blutpack 8E : 200 Y
