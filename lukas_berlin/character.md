@@ -3,8 +3,14 @@ Raymond "Ray" Rebù
 Größe : 1.76m  
 Gewicht: 67 kg  
 Alter: 19  
-Haare: Braunblaue Rhastas - oft wechselnd
-Klamotten: Jeansshorts, Anzugweste, Leinenhemd und Rhastamütze
+Haare: Braunblaue Rhastas - oft wechselnd  
+Klamotten: Jeansshorts, Anzugweste, Leinenhemd und Rhastamütze  
+Karma: 5  
+Schlechter Ruf: 0  
+Straßenruf: 0  
+Prominenz: 0  
+
+---------------------------------------------------------------------------------
 
 # Ideas
 Rumtreiber, Studiert nicht, Fokussiert auf andere Dinge, Künstlerrischer Freigeist
@@ -71,17 +77,17 @@ Feuerwaffen 5 (Gewehre, Pistolen, Schnellfeuerwaffen)
 (INT+CHA)x2 = 10  
 Deutsch M  
 Japanisch M  
-English 5  
-Italienisch 5  
-Französisch 5  
-Darstellende Künste 5  
+English 6  
+Italienisch 6  
+Französisch 4  
+Darstellende Künste 4  
 
 ## Vor- und Nachteile:
   25 Karma  
 - 10 Karma Satyr  
 - 25 Karma Vorteile  
-+ 20 Karma Nachteile  
-10 Karma  
++ 25 Karma Nachteile  
+15 Karma  
 
 ### Vorteile:
 4 Karma Legendärer Ruf (Universität) [+ 2 Rep]  
@@ -92,7 +98,7 @@ Darstellende Künste 5
 5 Karma Innere Uhr (+1 Vorführung Rythmus + Freie Handlung im Kampf)  
 
 ### Nachteile:
-5 Karma Lieblingsspielzeug (Notizbuch)  
+10 Karma Pazifist
 10 Karma Luxusgeschöpf (Mittelschicht)  
 5 Karma Staatliche SIN  
 
