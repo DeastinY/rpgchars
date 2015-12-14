@@ -1,3 +1,11 @@
+# Short
+Raymond "Ray" Rebù  
+Größe : 1.76m  
+Gewicht: 67 kg  
+Alter: 19  
+Haare: Braunblaue Rhastas - oft wechselnd
+Klamotten: Jeansshorts, Anzugweste, Leinenhemd und Rhastamütze
+
 # Ideas
 Rumtreiber, Studiert nicht, Fokussiert auf andere Dinge, Künstlerrischer Freigeist
 
@@ -16,8 +24,8 @@ KON 2/7 5/7
 GES 1/6 5/6  
 REA 2/7 5/7  
 STR 2/7 5/7  
-WIL 1/6 4/6  
-LOG 1/6 4/5  
+WIL 1/6 5/6  
+LOG 1/6 5/5  
 INT 1/6 5/6  
 CHA 1/5 5/5  
 EDG 1/6 1  
