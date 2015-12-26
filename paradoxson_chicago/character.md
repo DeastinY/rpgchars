@@ -4,29 +4,6 @@
 Social Justice, Sozialprobleme, Ansätze eines Faces - allerdings kein Soziales Gefühl, Pazifist (Will mit Mord einfach nichts am Hut haben), "Jeder Mensch verbirgt ein dunkles Geheimnis", Drogenproblem
 
 # Creation
-Lebensmodulsystem  
-Karma: 750 - 40 - 50 = 660  
-## Nationalität - Seattle - SINlos
-Hauptsprache: English (M)  
-Andere Sprache: Deutsch (1)  
-Allgemein: Gebräuche +1, Wissen: CAS +1, Wissen: Geschichte +1  
-KON +1, Wissen[Seattle] +1  
-## Entwicklungsjahre - Konzerndrohne
-LOG +1, CHAR +1  
-Elektronik-Fertigkeitsgruppe: +2  
-Gebräuche +2  
-Wahrnehmung +1  
-Akademisches Wissen [Konzern] +3  
-## Teenagerjahre - Konzernausbildung
-LOG +1, CHA +1  
-Elektronik-Fertigkeitsgruppe +1  
-Akrobatik +1  
-Chemie +1  
-Akademisches Wissen [zwei beliebige] +1  
-Berufswissen [Job] +2  
-Berufswissen [Konzern] +2  
-
-# Creation
 Prioritätensystem  
 A Fertigkeiten 46/10
 B Attribute 20
