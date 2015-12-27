@@ -30,7 +30,7 @@ Wahrnehmung 5 **10** (Optisch)
 Schleichen 5 **7** (Gebäudeinneres)  
 Überreden 5 **10** (Überzeugen)  
 Gebräuche 5 **10** (Sicherheitsetikette)  
-Schlosser 5 **7** (Magschlösser)  
+Schlosser 5 **7** (Standardschloss)  
 Fälschen 5 **10**  
 Verkörperung 5 **10**  
 Einschüchterung 5 **10**  
