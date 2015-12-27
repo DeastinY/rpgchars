@@ -1,5 +1,8 @@
 ![](unnamed.png)
 
+# Story
+27.12.2015 15 Karma  
+
 # Short
 
 # Ideas
