@@ -14,42 +14,42 @@ D Geld 140.000 Y
 E Magie -  
 
 ## Attribute
-KON 1/6 2/6  
-GES 1/6 2/6  
-REA 1/6 2/6  
-STR 1/6 2/6  
-WIL 1/6 5/6  
-LOG 1/6 5/6  
-INT 1/6 5/6  
-CHA 1/6 5/6  
-EDG 2/7 7/7  
+KON 1/6 **2/6**  
+GES 1/6 **2/6**  
+REA 1/6 **2/6**  
+STR 1/6 **2/6**  
+WIL 1/6 **5/6**  
+LOG 1/6 **5/6**  
+INT 1/6 **5/6**  
+CHA 1/6 **5/6**  
+EDG 2/7 **7/7**  
 ESS 6  
 
 ## Fertigkeiten
-Wahrnehmung 5 (Optisch)  
-Schleichen 5 (Gebäudeinneres)  
-Überreden 5 (Überzeugen)  
-Gebräuche 5 (Sicherheitsetikette)  
-Schlosser 5 (Magschlösser)  
-Fälschen 5  
-Verkörperung 5  
-Einschüchterung 5  
+Wahrnehmung 5 **10** (Optisch)  
+Schleichen 5 **7** (Gebäudeinneres)  
+Überreden 5 **10** (Überzeugen)  
+Gebräuche 5 **10** (Sicherheitsetikette)  
+Schlosser 5 **7** (Magschlösser)  
+Fälschen 5 **10**  
+Verkörperung 5 **10**  
+Einschüchterung 5 **10**  
 
-Computer 5 (Datensuche)  
-Software 5  
-Hardware 5  
+Computer 5 **10** (Datensuche)  
+Software 5 **10**  
+Hardware 5 **10**  
 
-Elektronische Kriegsführung 5  
-Hacking 5  
-Matrixkampf 5  
+Elektronische Kriegsführung 5 **10**  
+Hacking 5 **10**  
+Matrixkampf 5 **10**  
 
 ### Wissensfertigkeiten
 (INT+CHA)x2 = 20  
 English M  
-Matrixsicherheit 5  
-Matrixdesign 5  
-Konzerne 5  
-Social Engineering 5  
+Matrixsicherheit 5 **10**  
+Matrixdesign 5 **10**  
+Konzerne 5 **10**  
+Social Engineering 5 **10**  
 
 ## Vor- und Nachteile
 25 Karma + 22 Karma - 8 Karma = 39 Karma  
