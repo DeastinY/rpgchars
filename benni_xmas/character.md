@@ -12,10 +12,10 @@ E Geld 6.000 Y
 25 Karma  
 -15 Karma Wolf Gestaltwandler  
 -12 Karma Adrenalinschub  
-+ 5 Karma Analphabet  
-+ 7 Karma Computer-Analphabet  
-+ 5 Karma Keine Große Leuchte  
-= 15 Karma - 13 Karma (Erste Initiierung) = 2 Karma  
++5 Karma Analphabet  
++7 Karma Computer-Analphabet  
++5 Karma Keine Große Leuchte  
+=15 Karma - 13 Karma (Erste Initiierung) = 2 Karma  
 
 ## Attribute
 
