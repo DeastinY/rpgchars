@@ -72,8 +72,8 @@ Social Engineering 5
   4.000 Y [3] 8E Smartlink  
   2.000 Y [2] 4 Sichtvergrößerung  
  12.000 Y [3] 9 Sichtverbesserung Stufe 3  
-13.500 Y 0.25 Essenz 9 Interner Lufttank Stufe 3
- 7.500 Y 0.2 Essenz 6 Schmuggelbehälter
+13.500 Y 0.25 Essenz 9 Interner Lufttank Stufe 3  
+ 7.500 Y 0.2 Essenz 6 Schmuggelbehälter  
  3.500 Y 0.5 Essenz 12E Cyberimplantat Automatikpistole  
   Smartgunsystem, (Lasermarkierer und Schalldämpfer möglich)  
 12.000 Y 0.1 Essenz 6 Schlafregulator  
