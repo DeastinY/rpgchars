@@ -48,14 +48,14 @@ MAG 6
 INI + 2 W6  10 + 5W6  
 
 ## Fertigkeiten
-Waffenloser Kampf 6 (Biss)  
-Wahrnehmung 6 (Gehör)  
-Akrobatik 6 (Ausweichen)  
-Schleichen 6 (Infiltrieren)  
+Waffenloser Kampf 6 (Biss) **11**  
+Wahrnehmung 6 (Gehör) **11**  
+Akrobatik 6 (Ausweichen) **11**  
+Schleichen 6 (Infiltrieren) **11**  
 
 ### Wissen
-6 Saeder Krupp  
-6 Kampftaktiken  
+6 **11** Saeder Krupp  
+6 **11** Kampftaktiken  
 
 ## Adeptenkräfte
 3.5 Gesteigerte Reflexe 3  
