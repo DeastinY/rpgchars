@@ -55,7 +55,7 @@ Schleichen 6 (Infiltrieren) **11**
 
 ### Wissen
 6 **11** Saeder Krupp  
-6 **11** Kampftaktiken  
+6 **11** Kampftaktiken kleiner Einheiten  
 
 ## Adeptenkräfte
 3.5 Gesteigerte Reflexe 3  
