@@ -1,3 +1,11 @@
+# Story
+29.12.2015 Diebstahl des Superkommlinks mit Bifi-Man. Eigentlich 4k Y (nicht angenommen) und 6 Karma  
+
+## Karma
+2 Karma aus Erstellung  
+6 Karma vom 29.12.2015  
+-8 Karma Akrobatischer Ausweicher    
+
 # Ideas
 ehemaliger SK Wachkritter, Wolfsgestaltwandler, Mehrere Gegner im Nahkampf binden, so dass sie nicht weg kommen und nicht schiessen usw können.
 # Creation
@@ -16,6 +24,7 @@ E Geld 6.000 Y
 +7 Karma Computer-Analphabet  
 +5 Karma Keine Große Leuchte  
 =15 Karma - 13 Karma (Erste Initiierung) = 2 Karma  
+Akrobatischer Ausweicher  
 
 ## Attribute
 
