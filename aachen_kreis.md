@@ -11,11 +11,11 @@ GES 2 / 6
 REA 2 / 6  
 STR 1 / 6  
 WIL 5 / 6  
-LOG 6 / 6  
+LOG 6+2 / 6  
 INT 2 / 6  
 CHA 5 / 6  
 EDG 3 / 7  
-ESS 6  
+ESS 1.32  
 
 **Fertigkeiten:**  
 *Biotech-Gruppe:*  
@@ -38,13 +38,15 @@ Computer (Händlersuche) 6
 Führung (Kommandieren) 3    
 
 *Wissensfertigkeiten:*  
-(x2 für Berufswissen, INT+LOG = 8 x 2 = 16)
+(x2 für Berufswissen, INT+LOG = 10 x 2 = 20)
 
 
-
+25 Karma - 48 Karma + 25 Karma = 2 Karma  
 Vorteile:  
-4 Berufsschulabschluss
+4 Berufsschulabschluss  
+4 Beidhänigkeit  
 10 Schwarzmarktkanal  
+30 Karma SURGE III  
 
 Nachteile:
 5 Vorurteil Elfen (Allgemein, Offen)  
@@ -53,9 +55,32 @@ Nachteile:
 5 Auffälliger Stil  
 5 Schlechte Selbstbeherrschung - Aufmerksamkeitsbedürftig  
 
+**SURGE:**  
+16 Karma 2x Shiva-Arme  
+-6 Karma Neotenie  
+-4 Karma Nachtaktiv  
+-5 Karma Wechselwarm  
+
 **Cyberware:**  
 0,1 [1] Mathematische SPU 8 2.000 Y +4 Mathematik, Geistiges Limit (Wis/Tech) +1  
 0,2 Magennervstimulator 4 2.000 Y Keine Übelkeit mehr  
+
+Offensichtlicher Alphaware Cyber-Unterarm:
+0.36 Essenz
+Kapazität 10-10
+Verfügbarkeit 6
+Preis 12.000 Y
+[10] Eingebautes Medkit 8 1.000 Y  
+
+Offensichtliche Alphaware Cyber-Hand:  
+0.2 Essenz  
+Kapazität 4+1  
+Verfügbarkeit 2+6+1+1  
+Preis 6.000 Y + 1.000 Y + 30.000 Y  
+Massanfertigung +3/+3 
+[1] Fingerlicht 2 500 Y  
+[4] Zielerfassungslaser (Infrarot) 6 1.250 Y
+Größenanpassung 500 Y  
 
 Offensichtlicher Alphaware Cyber-Unterarm:
 0.36 Essenz
@@ -118,10 +143,15 @@ Preis 2.000 Y
 0,08 Alphaware Diätmodifikation 4+2 1.200 Y  
 0,08 Alphaware Metablismusfilter 4+2 1.200 Y  
 0,3 Nierensieb Stufe 6 12 24.000 Y  
-0081 Alphaware Verbesserter Neuralspeicher 4+2 12.000 Y  
+0,08 Alphaware Verbesserter Neuralspeicher 4+2 12.000 Y  
 0,6 Maßgeschneiderte Pheromone 12E 93.000 Y  
 0,16 Alphaware Mnemoverstärker Stufe 2 10+2 21.600 Y  
 0,08 Alphaware Schlafregulator 6+2 14.400 Y  
 0,2 Zerebralbooster Stufe 2 12 63.000 Y  
 0,0 Alphaware Hauer klein 2+2 120 Y
 0,08 Hörner 4+2 600 Y  
+
+bis hier : 442.670 Y  
+**Ausrüstung:**  
+
+10.000 Y SIN Stufe 4  
