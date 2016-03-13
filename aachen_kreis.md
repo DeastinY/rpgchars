@@ -38,12 +38,23 @@ Computer (Händlersuche) 6
 Führung (Kommandieren) 3    
 
 *Wissensfertigkeiten:*  
-(x2 für Berufswissen, INT+LOG = 10 x 2 = 20)
+(x2 für Akademisches, INT+LOG = 10 x 2 = 20)
+Akad. Anatomie (Modifikation) 6  
+Akad. Genetik (Regeneration) 6  
+Akad. Bewusstseinserweiternde Substanzen (Kampfdrogen) 6  
+Akad. Psychologie (Verhandlung) 6  
+Schwarzmärkte (Medtech) 5  
 
+**Connections:**  
+(CHAx3=15 + 2 Karma)  
+2/5 Ehemaliger Straßendoc  
+1/6 Body/Biowear Dealer [Schwarzmarktkanal]  
+2/1 Barkeeper  
 
-25 Karma - 48 Karma + 25 Karma = 2 Karma  
+**Vor- & Nachteile:**  
+25 Karma - 48 Karma + 25 Karma = 2 Karma -> Connection  
 Vorteile:  
-4 Berufsschulabschluss  
+4 College-Abschluss    
 4 Beidhänigkeit  
 10 Schwarzmarktkanal  
 30 Karma SURGE III  
