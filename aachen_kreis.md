@@ -69,8 +69,8 @@ Nachteile:
 **SURGE:**  
 16 Karma 2x Shiva-Arme  
 -6 Karma Neotenie  
--4 Karma Nachtaktiv  
--5 Karma Wechselwarm  
+-4 Karma Auffällige Hautpigmentierung    
+-5 Karma Biolumineszenz  
 
 **Cyberware:**  
 0,1 [1] Mathematische SPU 8 2.000 Y +4 Mathematik, Geistiges Limit (Wis/Tech) +1  
