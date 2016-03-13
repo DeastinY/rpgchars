@@ -53,7 +53,7 @@ Nachteile:
 5 Vorurteil Magie (Allgemein, Offen)  
 5 Fester Job 10h/Woche 1.000 Y pro Monat  
 5 Auffälliger Stil  
-5 Schlechte Selbstbeherrschung - Aufmerksamkeitsbedürftig  
+5 Schlechte Selbstbeherrschung - Narzist  
 
 **SURGE:**  
 16 Karma 2x Shiva-Arme  
@@ -139,7 +139,7 @@ Alphaware Balanceschwanz:
 Verfügbarkeit 8+2  
 Preis 2.000 Y  
 
-**Bioware:**
+**Bioware:**  
 0,08 Alphaware Diätmodifikation 4+2 1.200 Y  
 0,08 Alphaware Metablismusfilter 4+2 1.200 Y  
 0,3 Nierensieb Stufe 6 12 24.000 Y  
