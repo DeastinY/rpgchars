@@ -162,7 +162,16 @@ Preis 2.000 Y
 0,0 Alphaware Hauer klein 2+2 120 Y
 0,08 Hörner 4+2 600 Y  
 
-bis hier : 442.670 Y  
+bis hier : 425.670 Y  
 **Ausrüstung:**  
 
 10.000 Y SIN Stufe 4  
+5.000 Y Laden  
+5.000 Y Kommlink Transys Avalon 6  
+800 Y Smartlink Lizenz 6  
+800 Y Pheromono Lizenz 6  
+100 Y Micro-Transceiver  
+450 Y 3 Paar ARHandschuhe  
+22.150 Y Insgesamt
+
+1.120 Y Startgeld  
