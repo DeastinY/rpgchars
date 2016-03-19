@@ -17,6 +17,11 @@ CHA 5 / 6
 EDG 3 / 7  
 ESS 1.32  
 
+**Limit:**  
+Sozial :  5(Einzeln: 8)  
+Geistiges : 8  
+Körperliches : 2  
+
 **Fertigkeiten:**  
 *Biotech-Gruppe:*  
 Erste Hilfe 6 - 14W  
