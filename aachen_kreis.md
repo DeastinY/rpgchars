@@ -33,7 +33,7 @@ Seefahrtmechanik 4 - 12W
 Wahrnehmung (Spez.Optisch+5/Akustisch+3) 6+1 - 9(14/11)W  
 Verhandlung (Preis) 6+3 - 14(16)W   
 Gebräuche (Straße) 6+3 - 14(16)oW    
-Überreden (Bezahlung) 6 - 14(16)W    
+Überreden (Bezahlung) 6+3 - 14(16)W    
 Chemie (Medizinische Chemie) 6 - 14(16)W    
 Computer (Händlersuche) 6 - 14(16)W    
 Führung (Kommandieren) 3 - 11(13)W      
