@@ -185,3 +185,5 @@ MEDKIT KAUFEN !!
 +500 Y Anzahlung Auftrag
 - 1.500 Y Medikit 6  
 = 120 Y  
++ 6.000 Y Belohnung Anzahlung  
++ 1.500 Y Belohnung Eskortauftrag  
