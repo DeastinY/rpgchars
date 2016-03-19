@@ -177,3 +177,6 @@ bis hier : 425.670 Y
 
 1.120 Y Startgeld  
 MEDKIT KAUFEN !!  
++500 Y Anzahlung Auftrag
+- 1.500 Y Medikit 6  
+= 120 Y  
