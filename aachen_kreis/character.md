@@ -187,3 +187,4 @@ MEDKIT KAUFEN !!
 = 120 Y  
 + 6.000 Y Belohnung Anzahlung  
 + 1.500 Y Belohnung Eskortauftrag  
+- 300 y ballistische maske (+2 panzerung, +2 soz limit
