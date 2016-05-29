@@ -3,6 +3,7 @@
 # Story
 27.12.2015 15 Karma  
 Pistolen 3 -12 Karma  
+29.05.2016 10 Karma / 1.000 Y  
 
 
 # Short
