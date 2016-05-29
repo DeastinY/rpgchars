@@ -39,6 +39,7 @@ Schlosser 5 **7** (Standardschloss)
 Fälschen 5 **10**  
 Verkörperung 5 **10**  
 Einschüchterung 5 **10** (Drohen)  
+Pistolen 3 **5**  
 
 Computer 5 **10** (Datensuche)  
 Software 5 **10**  
