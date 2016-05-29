@@ -2,6 +2,8 @@
 
 # Story
 27.12.2015 15 Karma  
+Pistolen 3 -12 Karma  
+
 
 # Short
 
@@ -30,13 +32,13 @@ ESS 6
 
 ## Fertigkeiten
 Wahrnehmung 5 **10** (Optisch)  
-Schleichen 5 **7** (Gebäudeinneres)  
+Schleichen 5 **7** (Stadt)  
 Überreden 5 **10** (Überzeugen)  
 Gebräuche 5 **10** (Sicherheitsetikette)  
 Schlosser 5 **7** (Standardschloss)  
 Fälschen 5 **10**  
 Verkörperung 5 **10**  
-Einschüchterung 5 **10**  
+Einschüchterung 5 **10** (Drohen)  
 
 Computer 5 **10** (Datensuche)  
 Software 5 **10**  
@@ -78,7 +80,7 @@ Social Engineering 5 **10**
 13.500 Y 0.25 Essenz 9 Interner Lufttank Stufe 3  
  7.500 Y 0.2 Essenz 6 Schmuggelbehälter  
  3.500 Y 0.5 Essenz 12E Cyberimplantat Automatikpistole  
-  Smartgunsystem, (Lasermarkierer und Schalldämpfer möglich)  
+  Smartgunsystem, Lasermarkierer und Schalldämpfer  
 12.000 Y 0.1 Essenz 6 Schlafregulator  
 
  5.000 Y Doc Wagon Standard  
