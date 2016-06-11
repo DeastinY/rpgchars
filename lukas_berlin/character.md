@@ -3,12 +3,16 @@ Raymond "Ray" Rebù
 Größe : 1.76m  
 Gewicht: 67 kg  
 Alter: 19  
-Haare: Braunblaue Rhastas - oft wechselnd  
+Haare: Braunblaue Haare    
 Klamotten: Jeansshorts, Anzugweste, Leinenhemd und Rhastamütze  
-Karma: 5  
+Karma: 0  
 Schlechter Ruf: 0  
 Straßenruf: 0  
 Prominenz: 0  
+
+---------------------------------------------------------------------------------
+
+Hat bei einem Uniaustausch einen Nervenzusammenbruch bekommen, einen Mordversuch begangen, ist in die Schattenabgetaucht und arbeitet jetzt als Runner/Barkeeper/Musiker/Übersetzer.
 
 ---------------------------------------------------------------------------------
 
@@ -63,7 +67,7 @@ Feuerwaffen 5 (Gewehre, Pistolen, Schnellfeuerwaffen)
 1 Verkörperung  
 5 Vorführung (Darstellende Kunst)  
 
-2 Handwerk  
+3 Handwerk  
 1 Navigation (Stadt)  
 1 Verkleiden  
 2 Wahrnehmung (Optisch)  
@@ -98,7 +102,7 @@ Darstellende Künste 4
 5 Karma Innere Uhr (+1 Vorführung Rythmus + Freie Handlung im Kampf)  
 
 ### Nachteile:
-10 Karma Pazifist
+10 Karma 20h/Woche 2.500 Y Monatseinkommen  
 10 Karma Luxusgeschöpf (Mittelschicht)  
 5 Karma Staatliche SIN  
 
@@ -106,7 +110,7 @@ Darstellende Künste 4
 10 Karma = 20.000 Y + 6.000Y  
 Profiset ( 10 Karma )  
 Gefälschte SIN 4   
-Metallhandschellen
+Metallhandschellen  
 Kommlink [Erika Elite] mit Sim-Modul und subvokalem Mikrofon  
 Rucksack (20 ¥)  
 Messer  
@@ -117,9 +121,9 @@ Mikro-Transceiver
 Kletterausrüstung  
 RFID-Löscher  
 Taucherausrüstung  
-Kartensoft [Berlin]
+Kartensoft [Berlin]  
 Gasmaske  
-Beglaubigter Credstick (Gold)
+Beglaubigter Credstick (Gold)  
 Atemschutzmaske 4  
 Kontaktlinsen [Kapazität 3 : Bildverbindung, Blitzkompensation, Restlichtverstärkung]  
 Survival-Kit  
@@ -130,6 +134,6 @@ Medkit 3
 
 Täuschungspanzerung Panzerung 13 Kapazität 4 Verfügbarkeit 12E Preis 5.000Y
 (Unterbrechungshandlung (-5 Initiative), Vorführung vs. Wahrnehmung -4, Keine Verteidigung beim nächsten Angriff,
-Nachfüllen Waffenbau + Logik 4, 1 Stunde)
-2 x Lizenz Stufe 4 (Besitzen/Tragen) : 800 Y
-Blutpack 8E : 200 Y
+Nachfüllen Waffenbau + Logik 4, 1 Stunde)  
+2 x Lizenz Stufe 4 (Besitzen/Tragen) : 800 Y  
+Blutpack 8E : 200 Y  
