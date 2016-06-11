@@ -106,6 +106,12 @@ Darstellende Künste 4
 10 Karma Luxusgeschöpf (Mittelschicht)  
 5 Karma Staatliche SIN  
 
+## Connections:
+Streifenpolizist 2 / 4  
+Schieber 1 / 5  
+Händler 1 / 2  
+
+
 ## Ausrüstung:
 10 Karma = 20.000 Y + 6.000Y  
 Profiset ( 10 Karma )  
